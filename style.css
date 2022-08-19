@@ -1,33 +1,19 @@
-h3{
-    text-transform: uppercase;
+.renaissance{
+    background-color:DarkCyan;
 }
-p{
-    font-family: Arial;
+.impression{
+    background-color:MediumAquaMarine;
 }
-body{
-    background-image: url(https://c.pxhere.com/photos/58/c1/burnt_close_up_composition_document_music_music_note_music_sheet_musical_notes-1548465.jpg!d)
+.cubism{
+    background-color:DarkSalmon;
 }
-a{
-    font-size: 16px;
-    font-style: italic;
+.surrealism{
+    background-color:PaleGoldenRod;
 }
-iframe{
-    height: 600px;
-    width: 100%;
+th{
+    font-weight: bolder;
+    font-size: 22px;
 }
-.header{
-    border-style: solid;
-    background-color: lavender;
-}
-.content{
-    background-color: lavender;
-    height: 80%;
-    width: 70%;
-}
-.footer{
-    background-color: lavender;
-}
-.job-title{
-    color: maroon;
-    font-weight: bold;
+td{
+    color: white;
 }
