@@ -27,3 +27,7 @@ iframe{
 .footer{
     background-color: lavender;
 }
+.job-title{
+    color: maroon;
+    font-weight: bold;
+}
