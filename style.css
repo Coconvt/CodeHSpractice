@@ -1,9 +1,29 @@
-body{
-    font-family: arial;
+h3{
+    text-transform: uppercase;
 }
-li{
-    font-size: 18px;
+p{
+    font-family: Arial;
+}
+body{
+    background-image: url(https://c.pxhere.com/photos/58/c1/burnt_close_up_composition_document_music_music_note_music_sheet_musical_notes-1548465.jpg!d)
 }
 a{
-    color: lightseagreen;
+    font-size: 16px;
+    font-style: italic;
+}
+iframe{
+    height: 600px;
+    width: 100%;
+}
+.header{
+    border-style: solid;
+    background-color: lavender;
+}
+.content{
+    background-color: lavender;
+    height: 80%;
+    width: 70%;
+}
+.footer{
+    background-color: lavender;
 }
