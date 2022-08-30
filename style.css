@@ -1,4 +1,12 @@
-img{
-    width: 250px;
-    height: 365px;
+body{
+    background-color:#EBFFEB;
+    font-size:18px;
+}
+
+img {
+    width: 550px;
+}
+
+.jumbotron{
+    background: url(https://www.publicdomainpictures.net/pictures/10000/velka/pool-water-texture-11279304157Audq.jpg)
 }
