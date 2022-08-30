@@ -1,12 +1,28 @@
 body{
-    background-color:#EBFFEB;
+    background-color:#f4ffdb;
     font-size:18px;
 }
 
-img {
-    width: 550px;
+h1{
+    color:#003333;
+}
+h2{
+    color:#162955;
+}
+img{
+    height:200px;
 }
 
-.jumbotron{
-    background: url(https://www.publicdomainpictures.net/pictures/10000/velka/pool-water-texture-11279304157Audq.jpg)
+.endangered{
+    color:red;
+}
+.threatened{
+    color:OrangeRed;
+}
+.scientific-name{
+    font-style:italic;
+}
+
+.footer {
+    font-size: 12px;
 }
